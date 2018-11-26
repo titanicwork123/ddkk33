@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NTE2NjI2NjI1NDkyODExNzkx.Dt2Zkg.FogBBcN6VvH8xqXCMaapGBw_Jvk
+owner=359429472006438912
+prefix=P
+game=TYPE Phelp
 stayinchannel=true
 songinstatus=true
